@@ -1,3 +1,4 @@
+// 8kyu
 // Counting Sheep. Consider an array/list of sheep where some sheep may be missing from their place. We need a function that counts the number of sheep present in the array (true means present).
 
 const array = [true, true, false, true, undefined, null, true, 1, "true"];
